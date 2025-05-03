@@ -2,7 +2,7 @@
 
 **Full-Stack Developer**  
 📧 kvijayrohit@gmail.com  
-🌐 [Portfolio Website](https://kvijayrohit.netlify.app)
+🌐 <a href="https://kvijayrohit.netlify.app" target="_blank">Portfolio Website</a>
 
 ---
 
@@ -30,9 +30,15 @@ An intelligent chatbot leveraging LangChain.js for managing contextual conversat
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vijayrohit/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vijay2904)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://kvijayrohit.netlify.app)
+<a href="https://www.linkedin.com/in/vijayrohit/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://github.com/vijay2904" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://kvijayrohit.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio">
+</a>
 
 ---
 
