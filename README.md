@@ -2,9 +2,6 @@
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:kvijayrohit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/vijay-rohit-kanchusthambham-63ba481b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,6 +33,14 @@ A smart chatbot that leverages **LangChain.js** to manage contextual conversatio
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijay2904&theme=radical&row=1&column=6" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -62,5 +67,11 @@ A smart chatbot that leverages **LangChain.js** to manage contextual conversatio
 </p>
 
 ---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vijay2904&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">✨ Thank you for visiting my profile ✨</p>
